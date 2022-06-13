@@ -1,0 +1,11 @@
+.hwfix{
+    height: 200px;
+    width:100% !important;
+    box-shadow: 0 0 19px green !important;
+    margin:0 auto !important;
+    text-align: center !important;
+    
+}
+/* .hwfix:hover{
+    box-shadow: 25px 20px 5px green !important;
+} */

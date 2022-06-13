@@ -1,0 +1,35 @@
+#colors{
+background-color:#00ff00;
+}
+.nav{
+    color: white !important;
+    font-weight: 500 !important;
+    text-decoration: none;
+    margin: 1vmax 1.2vmax;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-size: 1.8vmax;
+
+}
+#dark{
+    font-weight: 700 !important;
+    font-size: xx-large !important;
+}
+
+
+
+ 
+
+@media (max-width:991px) {
+    .nav{
+        font-size: large;
+    }
+
+}
+@media (max-width:767px) {
+    #dark{
+        font-weight: 700 !important;
+        font-size: x-large !important;
+    }
+
+}
